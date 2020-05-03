@@ -1,0 +1,14 @@
+{
+  "name": "flexbox_trillo",
+  "version": "1.0.0",
+  "description": "flexbox layout",
+  "main": "main.js",
+  "scripts": {
+    "sass:compile": "sass --watch ./sass/main.scss ./css/main.css"
+  },
+  "author": "Norbert Toth",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
