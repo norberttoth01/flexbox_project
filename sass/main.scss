@@ -1,7 +1,7 @@
-// @import "base";
-// @import "components";
-// @import "layout";
+@import "base";
+@import "components";
+@import "layout";
 
-@use "base";
-@use "components";
-@use "layout";
+// @use "base" as *;
+// @use "components" as *;
+// @use "layout" as *;
